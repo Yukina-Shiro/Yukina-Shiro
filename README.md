@@ -1,11 +1,14 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on web dev
-- 🌱 I’m currently learning java, html, CSS and japanese
-- 🤔 I’m looking for help with anything about coding
-- 📫 How to reach me: www.linkedin.com/in/enora-saunier
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love anime/manga and drawing
+### About Me
+
+Hi, I'm **Enora**, a 20-years-old student from France , currently studying **Computer Science** and **Web Dev**. Passionate about **video games** and **japanese culture**, I enjoy **drawing** too.
+
+-  I’m currently working on my portfolio
+-  I’m currently learning MVVM, PHP and japanese
+-  **How to reach me**: www.linkedin.com/in/enora-saunier
+-  **Pronouns**: she/her
+-  **Programming** : Developing in Java, PHP, Python, C, javaFX, SQL, Javascript, HTML, CSS
 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@Enorasaunier19/30-nites-of-code)  
