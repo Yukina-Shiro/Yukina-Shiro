@@ -2,12 +2,12 @@
 
 ### About Me
 
-Hi, I'm **Enora**, a 20-years-old student from France , currently studying **Computer Science** and **Web Dev**. Passionate about **video games** and **japanese culture**, I enjoy **drawing** too.
+Hi, I'm **Enora**, a 20-years-old student from France, currently studying **Computer Science** and **Web Dev**. Passionate about **video games** and **japanese culture**, I enjoy **drawing** too.
 
 -  I’m currently working on my portfolio
 -  I’m currently learning MVVM, PHP and japanese
--  **How to reach me**: www.linkedin.com/in/enora-saunier
--  **Pronouns**: she/her
+-  **How to reach me** : www.linkedin.com/in/enora-saunier
+-  **Pronouns** : she/her
 -  **Programming** : Developing in Java, PHP, Python, C, javaFX, SQL, Javascript, HTML, CSS
 
 ## #30NitesOfCode:
