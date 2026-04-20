@@ -8,7 +8,7 @@ Hi, I'm **Enora**, a 20-years-old student from France, currently studying **Comp
 -  I’m currently learning Javascript, Mobile dev and japanese
 -  **How to reach me** : www.linkedin.com/in/enora-saunier
 -  **Pronouns** : she/her
--  **Programming** : Developing in Java, PHP, Python, C, javaFX, SQL, Javascript, HTML, CSS
+-  **Programming** : Developing in Java, Python, C#, PHP, C, javaFX, SQL, Javascript, HTML/CSS
 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@Enorasaunier19/30-nites-of-code)  
