@@ -11,5 +11,5 @@ Hi, I'm **Enora**, a 21-years-old student from France, currently studying **Comp
 -  **Programming** : Developing in Java, Python, C#, PHP, C, Javascript, HTML/CSS, javaFX, SQL
 
 ## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@Enorasaunier19/30-nites-of-code)  
-  ![@Enorasaunier19 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Enorasaunier19)
+  [Check out my progress!](https://www.codedex.io/@YukinaShiro/30-nites-of-code)  
+  ![@YukinaShiro #30NitesOfCode](https://www.codedex.io/api/petStatus?user=YukinaShiro)
